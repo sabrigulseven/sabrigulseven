@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi  👋 My name is Sabri Gülseven
+===================================================================================================================================
+<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Always+learning+new+things&width=500&height=50">
+ 
 <!--
 **sabrigulseven/sabrigulseven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
